@@ -1,0 +1,38 @@
+    body{display: flex; 
+        flex-direction: column;
+        align-items: center;}
+ 
+.stars{background-image: url("milkyway.jpg");
+    color: white;
+    width: 850px;
+        height: 450px;
+    display: flex; 
+    align-content: center;
+    justify-content: center;
+    align-items: center;}
+
+.bottomhalf{height: 324px;
+            width: 850px;
+            display: flex;
+            flex-direction: row;
+
+        background-color:lightgrey;}
+
+        .socialmedia{height: 324px;
+                    width: 270px;}
+
+        .officeinfo{height:324px;
+                    width: 270px;}
+
+        .Contact{height: 324px;
+                width: 270px;
+                display: flex;
+                flex-direction: column;}
+
+                .namebox{display: flex;
+                    flex-direction: column;}
+
+                    #fname {
+                        width:100%;}
+                        .message{display: flex;
+                        flex-direction: column;}
