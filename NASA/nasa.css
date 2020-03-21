@@ -5,7 +5,7 @@
 .stars{background-image: url("milkyway.jpg");
     color: white;
     width: 850px;
-        height: 450px;
+    height: 450px;
     display: flex; 
     align-content: center;
     justify-content: center;

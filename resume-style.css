@@ -1,0 +1,19 @@
+header{display: flex;
+    justify-content: space-evenly
+}
+.container{  display: flex;
+    justify-content: flex-start;
+}
+
+.leftside{display: flex;
+    flex-direction: column;
+    justify-content: space-between;    
+    background-color: lightblue;
+    width: 225px;
+    height: 500px;
+    border: 1px solid green;}
+.right-half{
+    width: 675px;
+    height: 500px;
+    background-color: lightblue;
+}
